@@ -1,0 +1,9 @@
+﻿Option Explicit
+'Script written by <Junichiro Horikawa>
+'Script copyrighted by <Junichiro Horikawa>
+'Script version Thursday, 24 March 2011 18:00:53
+
+Call Main()
+Sub Main()
+	Rhino.ViewCPlane , Rhino.WorldXYPlane()
+End Sub
